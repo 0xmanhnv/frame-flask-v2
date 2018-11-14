@@ -1,4 +1,4 @@
-<p align="center">
+<pre align="center">
             "* =========================================================",
             "*",
             "* NM License Copyright 2018 Nguyen Manh",
@@ -27,7 +27,7 @@
             "*               Buddha Bless:  \"No Bugs\"",
             "*",
             "* =========================================================="
-</p>
+</pre>
 
 ## About Reactjs.zent.edu.vn Project 
 
