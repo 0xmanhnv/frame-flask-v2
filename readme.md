@@ -1,10 +1,32 @@
-<p align="center"><img src="https://scontent.fhan2-1.fna.fbcdn.net/v/t1.0-9/13512169_928721200606775_4143824142075456214_n.jpg?_nc_cat=102&_nc_ht=scontent.fhan2-1.fna&oh=d9401ba28d94ad3b46183f2a0eed3d6a&oe=5C747222"></p>
-
 <p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
+            "* =========================================================",
+            "*",
+            "* NM License Copyright 2018 Nguyen Manh",
+            "*",
+            "*                       _oo0oo_",
+            "*                      o8888888o",
+            "*                      88\" . \"88",
+            "*                      (| -_- |)",
+            "*                      0\  =  /0",
+            "*                    ___/`---'\___",
+            "*                  .' \|     |// '.",
+            "*                 / \|||  :  |||// \\",
+            "*                / _||||| -:- |||||- \\",
+            "*               |   | \  -  /// |   |",
+            "*               | \_|  ''\---/''  |_/ |",
+            "*               \  .-\__  '-'  ___/-. /",
+            "*             ___'. .'  /--.--\  `. .'___",
+            "*          .\"\" '<  `.___\_<|>_/___.' >' \"\".",
+            "*         | | :  `- \`.;`\ _ /`;.`/ - ` : | |",
+            "*         \  \ `_.   \_ __\ /__ _/   .-` /  /",
+            "*     =====`-.____`.___ \_____/___.-`___.-'=====",
+            "*                       `=---='",
+            "*",
+            "*     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+            "*",
+            "*               Buddha Bless:  \"No Bugs\"",
+            "*",
+            "* =========================================================="
 </p>
 
 ## About Reactjs.zent.edu.vn Project 
