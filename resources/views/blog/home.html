@@ -1,5 +1,7 @@
 {% extends "blog/layouts/master.html" %}
 
 {% block content %}
-	<h1>sdfd</h1>	
+	{% if g.user.is_authenticated %}
+	  Hi {{ g.user.name }}!
+	{% endif %}
 {% endblock %}
