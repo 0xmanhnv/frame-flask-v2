@@ -1,4 +1,4 @@
-from app import db, ma
+from app import db, ma, bcrypt
 
 class User(db.Model):
 	__tablename__ = 'users'
@@ -15,6 +15,11 @@ class User(db.Model):
 	#convert to string
 	def __repr__(self):
 		return str(self.__dict__)
+	#genarate hash pasword
+	def generatePasswordHash(self, password):
+		return bcrypt.generate_password_hash(password, 10)
+	def checkPasswordHash(self, password):
+		return bcrypt.check_password_hash(self.password, password)
 
 #Tạo Schema cho model
 class UserSchema(ma.ModelSchema):

@@ -4,6 +4,7 @@ from flask import Flask, render_template
 from flask_sqlalchemy import SQLAlchemy
 from flask_marshmallow import Marshmallow
 from flask_migrate import Migrate, MigrateCommand
+from flask_bcrypt import Bcrypt
 
 # initialize the app
 app = Flask(__name__,
@@ -13,6 +14,8 @@ app = Flask(__name__,
 )
 #load config 
 app.config.from_object('config')
+#connect bcrypt to app
+bcrypt = Bcrypt(app)
 
 #connect database
 db = SQLAlchemy(app)
